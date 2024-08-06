@@ -39,7 +39,7 @@ You show the number "7" using both hands (e.g., five fingers on one hand, two fi
 The application recognizes the gesture and prints "Verified" in the terminal.
 
 ## Acknowledgments
-This project utilizes code from the CVZone repository. A big thank you to the authors for making this available to the community.
+This project utilizes code from the [CVZone repository](https://github.com/cvzone/cvzone). A big thank you to the authors for making this available to the community.
 
 ## Contact
 For any questions or suggestions, feel free to contact:
