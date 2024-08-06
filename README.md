@@ -38,9 +38,10 @@ The application displays the number "7" on the webcam feed.
 You show the number "7" using both hands (e.g., five fingers on one hand, two fingers on the other).
 The application recognizes the gesture and prints "Verified" in the terminal.
 
-Acknowledgments
+## Acknowledgments
 This project utilizes code from the CVZone repository. A big thank you to the authors for making this available to the community.
-Contact
+
+## Contact
 For any questions or suggestions, feel free to contact:
 
 Author: [Praveen]
