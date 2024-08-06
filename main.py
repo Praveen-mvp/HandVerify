@@ -60,14 +60,14 @@ while True:
         if right_hand_fingers is not None and left_hand_fingers is not None:
             if right_hand_fingers == right_hand_number and left_hand_fingers == left_hand_number:
                 # Check if the sum of displayed numbers is under 10
-                print("good")
+                print("Verified")
                 condition_met = True  # Set the flag to indicate that the condition has been met
                 # Display the success message on the image
                 cv2.putText(img, 'Correct!', (50, 150), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2, cv2.LINE_AA)
 
     # Display the image in a window
     cv2.imshow("Image", img)
-
+    
     # Exit loop if the condition is met
     if condition_met:
         break
